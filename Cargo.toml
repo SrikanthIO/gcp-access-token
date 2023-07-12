@@ -1,7 +1,7 @@
 [package]
 name = "gcp_access_token"
 version = "0.1.1"
-edition = "2021"
+edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 description = "this is a pure rust implimentation to get google cloud access token for servers with service account credentials."
